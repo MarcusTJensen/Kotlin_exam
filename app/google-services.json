@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "870833674159",
+    "firebase_url": "https://strange-math-204908.firebaseio.com",
+    "project_id": "strange-math-204908",
+    "storage_bucket": "strange-math-204908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870833674159:android:7719628febcdbc51",
+        "android_client_info": {
+          "package_name": "com.example.testdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870833674159-b9qqcbn9d7kvienveskvi4nucm9b08es.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testdb",
+            "certificate_hash": "b329a537720c647ae9c9cf3d1c7970eb1a2db282"
+          }
+        },
+        {
+          "client_id": "870833674159-o784v3m8ria9scb8j5e3gdlq6dmengfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzwo_xBwD7p-M4wpGkL28wLa1I1x2g8Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870833674159-o784v3m8ria9scb8j5e3gdlq6dmengfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
